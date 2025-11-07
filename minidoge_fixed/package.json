@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.html",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "vercel-build": "echo Deploying MiniDOGE"
+  }
 }
